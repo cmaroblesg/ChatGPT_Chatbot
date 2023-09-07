@@ -1,0 +1,3 @@
+Mensaje de información con salto de línea
+como parte del mensaje
+Mensaje de advertencia
