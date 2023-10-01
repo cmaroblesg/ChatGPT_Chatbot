@@ -1,0 +1,72 @@
+{
+    "0": {
+        "T: ": "2023-09-13 19:21:09",
+        "Q: ": "Este es un ejemplo",
+        "A: ": "Debe ser eliminado"
+    },
+    "1": {
+        "T": "2023-09-13 19:21:27",
+        "Q": "Hazme un resumen del articulo",
+        "A": "El artículo presenta el manifiesto ágil, que establece los valores y principios fundamentales para el desarrollo de software. El manifiesto enfatiza la importancia de satisfacer al cliente a través de la entrega temprana y continua de software valioso, la colaboración con el cliente, la entrega frecuente de software funcional, la motivación de los individuos y la atención continua a la excelencia técnica y el buen diseño. También se destacan los 12 principios ágiles, que incluyen la valoración de las interacciones individuales, el trabajo en equipo y la capacidad de respuesta al cambio."
+    },
+    "2": {
+        "T": "2023-09-13 19:21:37",
+        "Q": "cuales son los valores",
+        "A": "Los valores del manifiesto ágil son:\n\n1. Individuos e interacciones por encima de procesos y herramientas.\n2. Software funcionando por encima de una documentación exhaustiva.\n3. Colaboración con el cliente por encima de la negociación contractual.\n4. Respuesta al cambio por encima de seguir un plan."
+    },
+    "3": {
+        "T": "2023-09-13 19:21:57",
+        "Q": "y los principios?",
+        "A": "Los 12 principios del manifiesto ágil son:\n\n1. Nuestra principal prioridad es satisfacer al cliente a través de la entrega temprana y continua de software valioso.\n2. Aceptamos los requisitos cambiantes, incluso si llegan tarde en el proyecto.\n3. Entregamos software funcional con frecuencia, desde unas pocas semanas hasta un par de meses, con preferencia por los plazos más cortos.\n4. Las personas de negocios y los desarrolladores deben trabajar juntos diariamente a lo largo del proyecto.\n5. Construimos proyectos en torno a individuos motivados. Les damos el entorno y el apoyo que necesitan, y confiamos en que harán el trabajo.\n6. La forma más eficiente y efectiva de transmitir información dentro y fuera de un equipo de desarrollo es a través de la conversación cara a cara.\n7. El software funcionando es la medida primaria del progreso.\n8. Los procesos ágiles promueven el desarrollo sostenible. Los patrocinadores, desarrolladores y usuarios deben ser capaces de mantener un ritmo constante de forma indefinida.\n9. La atención continua a la excelencia técnica y al buen diseño mejora la agilidad.\n10. La simplicidad - el arte de maximizar la cantidad de trabajo no hecho - es esencial.\n11. Las mejores arquitecturas, requisitos y diseños surgen de equipos autoorganizados.\n12. A intervalos regulares, el equipo reflexiona sobre cómo ser más efectivo y ajusta su comportamiento en consecuencia."
+    },
+    "4": {
+        "T": "2023-09-13 19:27:55",
+        "Q": "De que trata el articulo?",
+        "A": "El artículo trata sobre el Manifiesto Ágil, que es un conjunto de valores y principios para el desarrollo de software que se enfoca en satisfacer al cliente a través de la entrega temprana y continua de software valioso y en adaptarse a los cambios en los requisitos del cliente. También se mencionan los 12 principios del enfoque ágil y se destaca la importancia de la interacción entre individuos, el trabajo en equipo, la entrega de software funcional y la colaboración con el cliente."
+    },
+    "5": {
+        "T": "2023-09-13 20:15:58",
+        "Q": "De que trata el paper?",
+        "A": "El texto presenta el manifiesto ágil, que es una declaración de valores y principios para el desarrollo de software ágil. El objetivo principal es satisfacer al cliente a través de la entrega temprana y continua de software valioso, y se enfatiza en la colaboración con el cliente, la entrega frecuente de software funcional, la atención continua a la excelencia técnica y el diseño de calidad, y la adaptación a los cambios en los requisitos del cliente. Además, se presentan los 12 principios de la metodología ágil, que se basan en la priorización de las personas, la interacción y la entrega de software funcional."
+    },
+    "6": {
+        "T": "2023-09-13 20:21:47",
+        "Q": "What is the main purpose of the paper?",
+        "A": "The main purpose of the paper is to present the Agile Manifesto, which outlines a set of principles for developing software in a more flexible and responsive way, with a focus on customer satisfaction, collaboration, and continuous improvement."
+    },
+    "7": {
+        "T": "2023-09-13 20:22:18",
+        "Q": "What are the agile principles?",
+        "A": "The Agile Manifesto outlines 12 principles for developing software in a more flexible and responsive way. These principles are:\n\n1. Customer satisfaction through early and continuous delivery of valuable software\n2. Welcome changing requirements, even late in development\n3. Deliver working software frequently, with a preference for shorter timescales\n4. Business people and developers must work together daily throughout the project\n5. Build projects around motivated individuals and give them the environment and support they need\n6. Face-to-face conversation is the most efficient and effective method of conveying information within a development team\n7. Working software is the primary measure of progress\n8. Agile processes promote sustainable development\n9. Continuous attention to technical excellence and good design enhances agility\n10. Simplicity is essential\n11. The best architectures, requirements, and designs emerge from self-organizing teams\n12. At regular intervals, the team reflects on how to become more effective, then tunes and adjusts its behavior accordingly."
+    },
+    "8": {
+        "T": "2023-09-13 20:22:44",
+        "Q": "Could you told me more about the agile values?",
+        "A": "Yes, of course! The Agile Manifesto is based on four core values that guide the development of software in a more flexible and responsive way. These values are:\n\n1. Individuals and interactions over processes and tools: Agile values the importance of people working together effectively, rather than relying solely on formal processes and tools.\n\n2. Working software over comprehensive documentation: Agile prioritizes the creation of working software that meets the customer's needs, rather than focusing on extensive documentation that may not be useful or relevant.\n\n3. Customer collaboration over contract negotiation: Agile emphasizes the importance of collaboration between the development team and the customer, rather than relying on rigid contracts and negotiations.\n\n4. Responding to change over following a plan: Agile recognizes that change is inevitable and values the ability to respond quickly and effectively to changes in requirements or circumstances, rather than sticking rigidly to a predetermined plan.\n\nThese values are intended to guide the development of software in a more flexible, collaborative, and customer-focused way, with a focus on delivering value quickly and efficiently."
+    },
+    "9": {
+        "T": "2023-09-13 20:23:13",
+        "Q": "Write me a report about the paper I share you",
+        "A": "The paper titled \"Agile Manifesto\" outlines a set of principles for developing software in a more flexible and responsive way, with a focus on customer satisfaction, collaboration, and continuous improvement. The manifesto was created by a group of software developers in 2001, and it has since become a widely accepted framework for software development.\n\nThe manifesto is based on four core values: individuals and interactions over processes and tools, working software over comprehensive documentation, customer collaboration over contract negotiation, and responding to change over following a plan. These values are intended to guide the development of software in a more flexible, collaborative, and customer-focused way, with a focus on delivering value quickly and efficiently.\n\nThe manifesto also outlines 12 principles for implementing these values in software development. These principles emphasize the importance of customer satisfaction, working software, collaboration between business people and developers, motivated individuals, face-to-face communication, sustainable development, technical excellence and good design, simplicity, self-organizing teams, and regular reflection and adjustment.\n\nOverall, the Agile Manifesto provides a useful framework for developing software in a more flexible and responsive way, with a focus on customer satisfaction and collaboration. By following these principles, software developers can create working software that meets the customer's needs, while also adapting to changing requirements and circumstances."
+    },
+    "10": {
+        "T": "2023-09-13 20:26:59",
+        "Q": "De que trata este articulo?",
+        "A": "Este artículo trata sobre los principios y valores fundamentales del desarrollo de software ágil, como la satisfacción del cliente, la entrega temprana y continua de software valioso, la colaboración con el cliente, la entrega frecuente de software funcional, la atención continua a la excelencia técnica y al buen diseño, la simplicidad y la autoorganización del equipo. También se mencionan los autores del Manifiesto Ágil y se presentan los 12 principios de la metodología ágil."
+    },
+    "11": {
+        "T": "2023-09-13 20:27:09",
+        "Q": "que mas?",
+        "A": "El artículo también menciona que los autores del Manifiesto Ágil están avanzando en los principios de la metodología ágil y se puede aprender más en AgileAlliance.org. Además, se presentan los 12 principios de la metodología ágil, que incluyen la importancia de la colaboración con el cliente, la entrega temprana y frecuente de software funcional, la atención continua a la excelencia técnica y al buen diseño, la simplicidad y la autoorganización del equipo. En general, el artículo se enfoca en la importancia de la metodología ágil en el desarrollo de software y cómo puede ayudar a satisfacer las necesidades cambiantes de los clientes y mejorar la eficiencia del equipo de desarrollo."
+    },
+    "12": {
+        "T": "2023-09-13 20:30:35",
+        "Q": "De que trata el articulo?",
+        "A": "El artículo trata sobre los principios y valores del manifiesto ágil, una metodología de desarrollo de software que se enfoca en la satisfacción del cliente a través de la entrega temprana y continua de software valioso, la colaboración con el cliente, la adaptación a los cambios y la mejora continua del proceso de desarrollo. Se describen los 12 principios del manifiesto ágil y se destaca la importancia de la interacción entre individuos, el trabajo en equipo, la entrega de software funcional, la colaboración con el cliente y la adaptación a los cambios."
+    },
+    "13": {
+        "T": "2023-09-13 21:09:30",
+        "Q": "que es esto?",
+        "A": "Esto es un texto dirigido a la Lic. Sarahí Jiménez de Operaciones Kipper, en el cual el remitente explica su experiencia con el servicio contratado con Kipper. Se menciona que durante los últimos meses se tuvo a tres personas asignadas como personal fijo, pero debido a diversas situaciones, se tuvo que contar con personal del pool en varias ocasiones. También se menciona que se encontró a una profesional dedicada en Rebeca, pero se decidió dar por terminado el contrato con Kipper a partir del primero de agosto debido a la incomodidad de contar constantemente con personal del pool y a la molestia de que algunas personas tienen una actitud negativa hacia los cuidados de las mascotas."
+    }
+}

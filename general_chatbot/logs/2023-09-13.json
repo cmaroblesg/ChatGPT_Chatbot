@@ -1,0 +1,27 @@
+{
+    "0": {
+        "T: ": "2023-09-13 19:21:09",
+        "Q: ": "Este es un ejemplo",
+        "A: ": "Debe ser eliminado"
+    },
+    "1": {
+        "T": "2023-09-13 19:21:27",
+        "Q": "Hazme un resumen del articulo",
+        "A": "El artículo presenta el manifiesto ágil, que establece los valores y principios fundamentales para el desarrollo de software. El manifiesto enfatiza la importancia de satisfacer al cliente a través de la entrega temprana y continua de software valioso, la colaboración con el cliente, la entrega frecuente de software funcional, la motivación de los individuos y la atención continua a la excelencia técnica y el buen diseño. También se destacan los 12 principios ágiles, que incluyen la valoración de las interacciones individuales, el trabajo en equipo y la capacidad de respuesta al cambio."
+    },
+    "2": {
+        "T": "2023-09-13 19:21:37",
+        "Q": "cuales son los valores",
+        "A": "Los valores del manifiesto ágil son:\n\n1. Individuos e interacciones por encima de procesos y herramientas.\n2. Software funcionando por encima de una documentación exhaustiva.\n3. Colaboración con el cliente por encima de la negociación contractual.\n4. Respuesta al cambio por encima de seguir un plan."
+    },
+    "3": {
+        "T": "2023-09-13 19:21:57",
+        "Q": "y los principios?",
+        "A": "Los 12 principios del manifiesto ágil son:\n\n1. Nuestra principal prioridad es satisfacer al cliente a través de la entrega temprana y continua de software valioso.\n2. Aceptamos los requisitos cambiantes, incluso si llegan tarde en el proyecto.\n3. Entregamos software funcional con frecuencia, desde unas pocas semanas hasta un par de meses, con preferencia por los plazos más cortos.\n4. Las personas de negocios y los desarrolladores deben trabajar juntos diariamente a lo largo del proyecto.\n5. Construimos proyectos en torno a individuos motivados. Les damos el entorno y el apoyo que necesitan, y confiamos en que harán el trabajo.\n6. La forma más eficiente y efectiva de transmitir información dentro y fuera de un equipo de desarrollo es a través de la conversación cara a cara.\n7. El software funcionando es la medida primaria del progreso.\n8. Los procesos ágiles promueven el desarrollo sostenible. Los patrocinadores, desarrolladores y usuarios deben ser capaces de mantener un ritmo constante de forma indefinida.\n9. La atención continua a la excelencia técnica y al buen diseño mejora la agilidad.\n10. La simplicidad - el arte de maximizar la cantidad de trabajo no hecho - es esencial.\n11. Las mejores arquitecturas, requisitos y diseños surgen de equipos autoorganizados.\n12. A intervalos regulares, el equipo reflexiona sobre cómo ser más efectivo y ajusta su comportamiento en consecuencia."
+    },
+    "4": {
+        "T": "2023-09-13 19:29:39",
+        "Q": "prueba",
+        "A": "¡Gracias! ¿En qué puedo ayudarte hoy?"
+    }
+}

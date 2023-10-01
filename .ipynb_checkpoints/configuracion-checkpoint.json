@@ -1,0 +1,29 @@
+{
+    "configuration":
+    {
+        "type":"enterprise"
+    },
+    "account_type":{
+        "enterprise":{
+            "OPENAI_API_TYPE": "azure",
+            "OPENAI_API_BASE": "https://contact-center-llm-ws-eu.openai.azure.com/",
+            "OPENAI_API_KEY": "e1ab0f94d3514373b12e519d1860bde8",
+            "OPENAI_API_VERSION": "2023-03-15-preview",
+            "OPENAI_MODEL": "gpt-35-turbo",
+            "OPENAI_EMBEDDINGS": "text-embedding-ada-002"
+        },
+        "personal":
+        {
+            "OPENAI_ORGANIZATION": "org-O4LGngVCQzhj5KNvnB1DxtDY",
+            "OPENAI_API_BASE": "https://api.openai.com/v1/completions",
+            "OPENAI_API_KEY": "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",
+            "OPENAI_MODEL_GPT3.5TURBO": "gpt-3.5-turbo",
+            "OPENAI_MODEL_GPT4": "gpt-4"
+        }
+    },
+    "route":
+    {
+        "main":"/Users/c.marcoa.roblesg./Documents/Projects/ChatGPT_Chatbot",
+        "data":"data"
+    }
+}
